@@ -1,7 +1,7 @@
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
-import javafx.scene.layout.VBox;
+//import javafx.scene.layout.VBox;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
  
@@ -18,7 +18,6 @@ public class FirstFX extends Application {
     	stage.setTitle("My First Stage Title");
     	label1 = new Label("My first Label! Wow! This is so great!");		
     	VBox root = new VBox();
-		what the hell is this?
     	root.getChildren().add(label1);
     	Scene scene = new Scene(root);
     	stage.setScene(scene); 	

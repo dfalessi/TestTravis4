@@ -7,7 +7,7 @@ import javafx.stage.Stage;
  
 public class FirstFX extends Application {
     
-	Label label1;
+//	Label label1;
 	
 	public static void main(String[] args) {
         launch(args);

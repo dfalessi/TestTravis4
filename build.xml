@@ -10,7 +10,7 @@
     <property name="target" value="1.8"/>
     <property name="source" value="1.8"/>
     <path id="JavaFX.userclasspath">
-        <pathelement location="../../../../Program Files/Java/jdk1.8.0_25/jre/lib/jfxswt.jar"/>
+        <pathelement location="../../../../Program Files/Java/jdk1.8.0_25regedg/jre/lib/jfxswt.jar"/>
     </path>
     <path id="TestJavaFX4.classpath">
         <pathelement location="bin"/>
